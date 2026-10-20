@@ -24,10 +24,10 @@ export default function Hero() {
               <button type="button" className="btn btn-navy btn-lg" onClick={() => openEnquiry("Admission enquiry")}>
                 Apply Now <i className="bi bi-arrow-right ms-1" aria-hidden="true" />
               </button>
-              <button type="button" className="btn btn-outline-navy btn-lg" onClick={() => openEnquiry("Campus visit")}>
+              <a href="https://eak-international-school-sigma.vercel.app/" type="button" className="btn btn-outline-navy btn-lg">
                 <i className="bi bi-calendar-check me-2" aria-hidden="true" />
-                Schedule a Visit
-              </button>
+                Visit original site ✦
+              </a>
             </div>
 
             <Row className="g-3 hero-chips" as="ul">
