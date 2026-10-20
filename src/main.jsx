@@ -10,7 +10,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import "./AIComponents/styles/theme.css";
 
-import AI from './AIComponents/components/AI';
+import AI from './App';
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
