@@ -25,7 +25,6 @@ export default function Hero() {
                 Apply Now <i className="bi bi-arrow-right ms-1" aria-hidden="true" />
               </button>
               <a href="https://eak-international-school-sigma.vercel.app/" type="button" className="btn btn-outline-navy btn-lg">
-                <i className="bi bi-calendar-check me-2" aria-hidden="true" />
                 Visit original site ✦
               </a>
             </div>
