@@ -64,3 +64,4 @@ The hero and facility pictures are illustrated placeholders (gradients + icons) 
 
 - The enquiry form does not send data anywhere (frontend-only by design).
 - All names, dates, statistics and fees are fictional sample data.
+"# eak-school-admissions-landing" 
