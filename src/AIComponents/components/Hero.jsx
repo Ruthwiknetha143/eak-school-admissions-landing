@@ -24,7 +24,7 @@ export default function Hero() {
               <button type="button" className="btn btn-navy btn-lg" onClick={() => openEnquiry("Admission enquiry")}>
                 Apply Now <i className="bi bi-arrow-right ms-1" aria-hidden="true" />
               </button>
-              <a href="https://eak-international-school-sigma.vercel.app/" type="button" className="btn btn-outline-navy btn-lg">
+              <a href="https://eak-international-school-sigma.vercel.app/" type="button" className="btn btn-outline-navy btn-lg" target="_blank">
                 Visit original site ✦
               </a>
             </div>
